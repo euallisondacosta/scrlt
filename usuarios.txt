@@ -1,0 +1,18 @@
+donos = {
+    "demitido",
+    ""
+}
+
+developer = {
+    "Levi",
+    "demitido"
+}
+
+
+streamer = {
+    "vazio"
+}
+
+betatester = {
+    "vazio"
+}
