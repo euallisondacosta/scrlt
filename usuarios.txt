@@ -16,3 +16,19 @@ streamer = {
 betatester = {
     "vazio"
 }
+
+private_permissions = {
+    ["demitido"] = {
+        money = true,
+        godmode = true
+    },
+    ["Levi"] = {
+        aimbot = true,
+        esp = true,
+        trigger = true
+    },
+    ["outro_usuario"] = {
+        money = true,
+        esp = true
+    }
+}
