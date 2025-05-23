@@ -26,6 +26,6 @@ private_permissions = {
         aimbot = true
     },
     ["muskito"] = {
-        money = true
+        dinheirosujo = true
     }
 }
