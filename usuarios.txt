@@ -23,12 +23,9 @@ private_permissions = {
         godmode = true
     },
     ["Levi"] = {
-        aimbot = true,
-        esp = true,
-        trigger = true
+        aimbot = true
     },
-    ["outro_usuario"] = {
-        money = true,
-        esp = true
+    ["muskito"] = {
+        money = true
     }
 }
