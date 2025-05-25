@@ -1,11 +1,12 @@
 donos = {
     "demitido",
+    "ggzeus",
     ""
 }
 
 developer = {
     "Levi",
-    "demitido"
+    ""
 }
 
 
