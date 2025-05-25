@@ -1,5 +1,5 @@
 donos = {
-    "ggzeus",
+    "demitido",
     ""
 }
 
@@ -27,5 +27,5 @@ private_permissions = {
     },
     ["muskito"] = {
         dinheirosujo = true
-    }
+}
 }
