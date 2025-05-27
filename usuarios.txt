@@ -23,8 +23,7 @@ private_permissions = {
         money = true,
         godmode = true
     },
-    ["muskito"] = {
-        dinheirosujobella = true,
+    ["Levi"] = {
         godmode = true
 
     },
