@@ -15,7 +15,6 @@ streamer = {
 }
 
 betatester = {
-    "muskito",
     ""
 }
 
