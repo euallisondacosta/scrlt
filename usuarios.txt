@@ -1,17 +1,20 @@
 donos = {
     "demitido",
-    "ggzeus",
     ""
 }
 
 developer = {
     "Levi",
-    ""
+    "demitido"
 }
 
 
 streamer = {
     "vazio"
+}
+
+betatester = {
+    "muskito"
 }
 
 private_permissions = {
