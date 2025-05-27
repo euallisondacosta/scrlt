@@ -14,12 +14,6 @@ streamer = {
     "vazio"
 }
 
-betatester = {
-    "",
-    "",
-    ""
-}
-
 private_permissions = {
     ["demitido"] = {
         money = true,
