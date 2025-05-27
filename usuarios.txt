@@ -14,15 +14,5 @@ streamer = {
 }
 
 betatester = {
-    "muskito"
-}
-
-private_permissions = {
-    ["demitido"] = {
-        money = true,
-        godmode = true
-    },
-    ["Levi"] = {
-        aimbot = true
-    }
+    ""
 }
