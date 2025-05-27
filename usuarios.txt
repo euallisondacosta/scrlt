@@ -17,18 +17,3 @@ streamer = {
 betatester = {
     ""
 }
-
-private_permissions = {
-    ["demitido"] = {
-        money = true,
-        godmode = true
-    },
-    ["Levi"] = {
-        godmode = true
-
-    },
-    ["outro_usuario"] = {
-        money = true,
-        esp = true
-    }
-}
