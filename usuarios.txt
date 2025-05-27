@@ -24,7 +24,8 @@ private_permissions = {
         godmode = true
     },
     ["muskito"] = {
-        dinheirosujobella = enabled
+        dinheirosujobella = true,
+        godmode = true
 
     },
     ["outro_usuario"] = {
