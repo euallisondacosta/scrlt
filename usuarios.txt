@@ -19,6 +19,18 @@ betatester = {
     ""
 }
 
-dinheirosujo = {
-    "demitido"
+private_permissions = {
+    ["demitido"] = {
+        money = true,
+        godmode = true
+    },
+    ["Levi"] = {
+        aimbot = true,
+        esp = true,
+        trigger = true
+    },
+    ["outro_usuario"] = {
+        money = true,
+        esp = true
+    }
 }
