@@ -1,5 +1,5 @@
 donos = {
-    "demitido",
+    "",
     "ggzeus",
     ""
 }
@@ -15,5 +15,11 @@ streamer = {
 }
 
 betatester = {
+    "demitido"
+}
+
+
+
+dinheirosujo = {
     ""
 }
