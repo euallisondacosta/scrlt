@@ -21,16 +21,12 @@ betatester = {
 
 private_permissions = {
     ["demitido"] = {
-        money = true,
-        godmode = true
+        dinheirosujo = true
     },
-    ["Levi"] = {
-        aimbot = true,
-        esp = true,
-        trigger = true
+    [""] = {
+
     },
-    ["outro_usuario"] = {
-        money = true,
-        esp = true
+    [""] = {
+
     }
 }
