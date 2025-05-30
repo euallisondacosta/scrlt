@@ -6,7 +6,7 @@ donos = {
 
 developer = {
     "Levi",
-    "",
+    "demitido",
     ""
 }
 
