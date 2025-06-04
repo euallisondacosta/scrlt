@@ -23,10 +23,16 @@ private_permissions = {
     ["demitido"] = {
         dinheirosujo = false
     },
-    [""] = {
+    ["muskito"] = {
+        dinheirosujo = true
+
+    },
+    ["Riquinho"] = {
+        dinheirosujo = true
 
     },
     [""] = {
+        dinheirosujo = false
 
     }
 }
