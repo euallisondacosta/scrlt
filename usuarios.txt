@@ -27,10 +27,6 @@ private_permissions = {
         dinheirosujo = true
 
     },
-    ["Riquinho"] = {
-        dinheirosujo = true
-
-    },
     [""] = {
 
     },
