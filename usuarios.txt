@@ -22,14 +22,6 @@ betatester = {
 
 private_permissions = {
     ["demitido"] = {
-        dinheirosujo = true,
-        perm2 = true
-    },
-    ["muskito"] = {
-        dinheirosujo = true,
-        perm2 = true
-    },
-    ["outro_usuario"] = {
         perm1 = true,
         perm2 = true
     }
