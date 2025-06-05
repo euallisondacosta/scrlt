@@ -19,10 +19,3 @@ betatester = {
     "muskito",
     ""
 }
-
-private_permissions = {
-    ["demitido"] = {
-        perm1 = true,
-        perm2 = true
-    }
-}
