@@ -16,7 +16,7 @@ streamer = {
 }
 
 betatester = {
-    ""
+    "muskito"
 }
 
 private_permissions = {
