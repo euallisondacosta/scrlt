@@ -21,9 +21,6 @@ betatester = {
 }
 
 private_permissions = {
-    ["demitido"] = {
-        dinheirosujo = true
-    },
     ["muskito"] = {
         dinheirosujo = true
     }
