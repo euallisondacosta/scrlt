@@ -6,7 +6,7 @@ donos = {
 
 developer = {
     "Levi",
-    "demitido",
+    "",
     ""
 }
 
@@ -16,7 +16,8 @@ streamer = {
 }
 
 betatester = {
-    "muskito"
+    "muskito",
+    "demitido"
 }
 
 private_permissions = {
